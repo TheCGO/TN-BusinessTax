@@ -1,2 +1,10 @@
-# TN_BusinessTax
-Data and code for analysis in "Budget Surpluses and Business Tax Reforms in Tennessee"
+# Data and code for "Budget Surpluses and Business Tax Reforms in Tennessee"
+This repository contains the data and code for the analyses in "Budget Surpluses and Business Tax Reforms in Tennessee" by Jason DeBacker (@jdebacker) and Richard W. Evans (@rickecon).
+
+## Files and directories in the repository
+This repository contains the following items:
+* [`TN_BusinessTax.ipynb` Jupyter notebook](). An executable notebook you can use to replicate all the analyses in the article and creation of output and figures. You can either clone or download this repository and run the `TN_BusinessTax.ipynb` notbook on your machine locally. Ore you can [open it in Google Colab]() and run the notebook from your browser in which all the software and computation is hosted in the cloud.
+* [`/images/` directory](). This folder contains the `.html` files for teh dynamic visualizations in the paper and created in the notebook and the corresponding static `.png` image files.
+* [`/data/` directory](). This directory contains the data used in the analyses in the article--PEW total balances and rainy day fund balances historical data for all 50 states and Tennessee Department of Revenue monthly collections data.
+    * [`/data/ReservesBalancesData.xlsx`](). PEW Charitable Trusts historical data on all 50 states total balances and rainy day fund balances from 2000 - 2022. "[Fiscal 50: State Trends and Analysis: Reserves and Balances](https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2014/fiscal-50#ind5)", updated December 16, 2022 (accessed Dec. 31, 2022). Data can be downloaded from the PEW site from this URL (https://www.pewtrusts.org/-/media/data-visualizations/interactives/2016/fiscal-50/docs/2013/ReservesBalancesData.xlsx?v=202210).
+    * [`/data/Main202206.xlsx`](). Tennessee Department of Revenue, fiscal year end tax collections file June 2022. This spreadsheet was downloaded from the Tennessee Department of Revenue "[Monthly & Fiscal Year Tax Collections](https://www.tn.gov/revenue/tax-resources/tax-collections-information/monthly-fiscal-year-collections.html)" page from the following URL on Dec. 31, 2022 (https://www.tn.gov/content/dam/tn/revenue/documents/statistics/2022/Main202206.xlsx).
