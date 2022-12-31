@@ -1,2 +1,4 @@
 # Data and code for "Budget Surpluses and Business Tax Reforms in Tennessee"
-This repository contains the data and code for the analyses in "Budget Surpluses and Business Tax Reforms in Tennessee" by Jason DeBacker (@jdebacker) and Richard W. Evans (@rickecon).
+This repository contains the data and code for the analyses in "Budget Surpluses and Business Tax Reforms in Tennessee" by Jason DeBacker (@jdebacker) and Richard W. Evans (@rickecon). This repository contains the following items:
+* [`TN_BusinessTax.ipynb` Jupyter notebook](). An executable notebook you can use to replicate all the analyses in the article and creation of output and figures. You can either clone or download this repository and run the `TN_BusinessTax.ipynb` notbook on your machine locally. Ore you can [open it in Google Colab]() and run the notebook from your browser in which all the software and computation is hosted in the cloud.
+* [`/images/` directory](). This folder contains the `.html` files for teh dynamic visualizations in the paper and created in the notebook and the corresponding static `.png` image files.
