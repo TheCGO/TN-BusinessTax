@@ -1,0 +1,14 @@
+name: tn-bustax-dev
+channels:
+- conda-forge
+dependencies:
+- python>=3.9
+- ipython
+- numpy
+- pandas>=1.4.4
+- plotly
+- bokeh
+- pip
+- pip:
+    - cost-of-capital-calculator
+    - taxcalc
