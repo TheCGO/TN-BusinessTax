@@ -2,12 +2,15 @@ name: tn-bustax-dev
 channels:
 - conda-forge
 dependencies:
-- python>=3.9
+- python>=3.9, <3.11
 - ipython
+- jupyter
 - numpy
 - pandas>=1.4.4
+- openpyxl
 - plotly
 - bokeh
+- matplotlib
 - pip
 - pip:
     - cost-of-capital-calculator
