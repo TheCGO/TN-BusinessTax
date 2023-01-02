@@ -15,3 +15,4 @@ dependencies:
 - pip:
     - cost-of-capital-calculator
     - taxcalc
+    - selenium
