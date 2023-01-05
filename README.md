@@ -1,5 +1,5 @@
-# Data and code for "Budget Surpluses and Business Tax Reforms in Tennessee"
-This repository contains the data and code for the analyses in "Budget Surpluses and Business Tax Reforms in Tennessee" by Jason DeBacker (@jdebacker) and Richard W. Evans (@rickecon).
+# Data and code for "What Business Tax Reforms would be Best for Tennessee?"
+This repository contains the data and code for the analyses in "What Business Tax Reforms would be Best for Tennessee?" by Jason DeBacker (@jdebacker) and Richard W. Evans (@rickecon).
 
 ## Files and directories in the repository
 This repository contains the following items:
