@@ -1,5 +1,5 @@
 # Data and code for "What Business Tax Reforms would be Best for Tennessee?"
-This repository contains the data and code for the analyses in "What Business Tax Reforms would be Best for Tennessee?" by Jason DeBacker (@jdebacker) and Richard W. Evans (@rickecon).
+This repository contains the data and code for the analyses in the *Research in Focus* article by [Jason DeBacker](https://jasondebacker.com/) (@jdebacker) and [Richard W. Evans](https://sites.google.com/site/rickecon) (@rickecon) entitled "[What Business Tax Reforms would be Best for Tennessee?](https://www.thecgo.org/research/what-business-tax-reforms-would-be-best-for-tennessee/)"
 
 ## Files and directories in the repository
 This repository contains the following items:
